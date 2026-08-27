@@ -11,7 +11,9 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LongestSubstringWithoutRepe
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PalindromeNumber", "PalindromeNumber\PalindromeNumber.vcxproj", "{8ADF43E5-ECF7-46C1-B3C7-176D811C0DCE}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RegularExpressionMatching", "RegularExpressionMatching\RegularExpressionMatching.vcxproj", "{B634A012-0DBD-484D-B56C-08CA251618B1}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RegularExpressionMatching - Incomplete", "RegularExpressionMatching\RegularExpressionMatching.vcxproj", "{B634A012-0DBD-484D-B56C-08CA251618B1}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AddTwoNumbers", "AddTwoNumbers\AddTwoNumbers.vcxproj", "{D6C164C4-AA24-4C90-B169-BDC43221AFAB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -61,6 +63,14 @@ Global
 		{B634A012-0DBD-484D-B56C-08CA251618B1}.Release|x64.Build.0 = Release|x64
 		{B634A012-0DBD-484D-B56C-08CA251618B1}.Release|x86.ActiveCfg = Release|Win32
 		{B634A012-0DBD-484D-B56C-08CA251618B1}.Release|x86.Build.0 = Release|Win32
+		{D6C164C4-AA24-4C90-B169-BDC43221AFAB}.Debug|x64.ActiveCfg = Debug|x64
+		{D6C164C4-AA24-4C90-B169-BDC43221AFAB}.Debug|x64.Build.0 = Debug|x64
+		{D6C164C4-AA24-4C90-B169-BDC43221AFAB}.Debug|x86.ActiveCfg = Debug|Win32
+		{D6C164C4-AA24-4C90-B169-BDC43221AFAB}.Debug|x86.Build.0 = Debug|Win32
+		{D6C164C4-AA24-4C90-B169-BDC43221AFAB}.Release|x64.ActiveCfg = Release|x64
+		{D6C164C4-AA24-4C90-B169-BDC43221AFAB}.Release|x64.Build.0 = Release|x64
+		{D6C164C4-AA24-4C90-B169-BDC43221AFAB}.Release|x86.ActiveCfg = Release|Win32
+		{D6C164C4-AA24-4C90-B169-BDC43221AFAB}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
